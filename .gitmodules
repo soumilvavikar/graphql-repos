@@ -1,0 +1,12 @@
+[submodule "graphql-apollo-connectors"]
+	path = graphql-apollo-connectors
+	url = https://github.com/soumilvavikar/graphql-apollo-connectors
+[submodule "graphql-apollo-router-performance-analysis"]
+	path = graphql-apollo-router-performance-analysis
+	url = https://github.com/soumilvavikar/graphql-apollo-router-performance-analysis
+[submodule "graphql-ai-needs-apis-graphchat-example"]
+	path = graphql-ai-needs-apis-graphchat-example
+	url = https://github.com/soumilvavikar/graphql-ai-needs-apis-graphchat-example
+[submodule "graphql-federated-subscriptions"]
+	path = graphql-federated-subscriptions
+	url = https://github.com/soumilvavikar/graphql-federated-subscriptions
